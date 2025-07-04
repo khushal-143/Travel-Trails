@@ -11,6 +11,8 @@ A responsive travel booking website built with HTML, CSS, JavaScript, MySQL and 
 - 📝 Booking form to submit trip details (basic PHP form handling)
 - 🔘 Load more packages functionality
 - 📊 Clean and modern UI with reusable CSS styles
+- 🖇️ Integrated MySQL database for managing travel packages and user bookings
+- 👀 Secure form submission and data storage using PHP and SQL queries
 
 ## 🛠️ Technologies Used
 
